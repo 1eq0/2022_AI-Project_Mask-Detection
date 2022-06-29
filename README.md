@@ -1,9 +1,7 @@
 # 😷Mask Detection
 
-> vgg-16 모델을 이용한 마스크 착용 여부 구분 프로젝트
-
-최종보고서 [https://drive.google.com/file/d/19z7eVsWjs251cFUKMKs7wZXYoL9ellaC/view?usp=sharing](https://drive.google.com/file/d/19z7eVsWjs251cFUKMKs7wZXYoL9ellaC/view?usp=sharing)
-> 
+> vgg-16 모델을 이용한 마스크 착용 여부 구분 프로젝트 <br>
+>[최종보고서](https://drive.google.com/file/d/19z7eVsWjs251cFUKMKs7wZXYoL9ellaC/view?usp=sharing)
 
 ## 1. 제작기간 & 참여인원
 
